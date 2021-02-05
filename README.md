@@ -1,8 +1,6 @@
 # GoAniFire Rebuilt V1 Assets
 This is a remake of the original GoAnimate/Vyond/GA4S cloudfront server with community-made mods.
 
-# Credits
-
 # Custom Clothing & Other Custom Assets 
 Kenny Animate - Original idea
 Waleed Tariq2001
